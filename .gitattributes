@@ -1,0 +1,2 @@
+# always commit with LF, don't warn
+* text=auto eol=lf
