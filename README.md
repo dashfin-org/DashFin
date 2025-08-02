@@ -41,3 +41,7 @@ This repo contains the core monorepo structure:
 4. Launch frontend; the new widget fetches and displays data
 
 Feel free to review and merge to enable further adapter integration.
+
+
+## Project badges
+(markdown badges TBD)
