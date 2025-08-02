@@ -1,1 +1,14 @@
+# --- development environments ---
+.venv/
+__pycache__/
 node_modules/
+.DS_Store
+
+# --- build artefacts / logs ---
+*.pyc
+*.pyo
+*.log
+
+# --- lock / package managers you don’t want in demo PRs ---
+pnpm-lock.yaml
+package-lock.json
